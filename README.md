@@ -8,4 +8,4 @@ Just some updates
 
 About to branch out
 
-Making changes on the branched file
+Causing a conflict
